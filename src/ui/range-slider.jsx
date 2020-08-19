@@ -1,6 +1,12 @@
 import React from 'react';
 import styled from 'styled-components';
 
+/**
+ * ToDo
+ *
+ * Try add value counter with pseudo element
+ */
+
 export const RangeSlider = ({ min, max, value, onChange, step, width }) => {
   return (
     <StyledRangeSlider
