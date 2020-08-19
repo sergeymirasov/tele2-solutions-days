@@ -8,4 +8,6 @@ Tele2 совместно с «Лигой Цифровой Экономики» �
 
 # Лицензия
 
-[MIT](/LICENSE)
+Этот проект был создан при помощи [Create React App](https://github.com/facebook/create-react-app)
+
+Sergey Mirasov @ [MIT](/LICENSE)
